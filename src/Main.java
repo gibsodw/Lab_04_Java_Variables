@@ -1,4 +1,5 @@
-public class Main {
+public class Main
+{
     public static void main(String[] args)
     {
         int intOperandA = 4;
@@ -55,8 +56,6 @@ public class Main {
         double shoeSize = 11.5;
         String birthMonth = "December";
         String fullName = "Don Gibson";
-
-
 
     }
 }
